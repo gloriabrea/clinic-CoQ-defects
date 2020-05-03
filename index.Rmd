@@ -26,16 +26,10 @@ library(ggplot2)
 ```
 
 
-<br>
-
-Aquí va texto
-
-<br>
-
-
 ```{r}
 #render_toc("index.Rmd", base_level = 2, toc_depth = 1)
 ```
+
 
 
 ```{r read.data, include=FALSE}
@@ -116,6 +110,22 @@ heatm
 }
 
 ```
+
+
+-----------------------------------------------------------------
+
+
+<br>
+
+Aquí va texto
+
+<br>
+
+
+
+
+
+
 
 ## {.tabset .tabset-fade .tabset-pills}
 
