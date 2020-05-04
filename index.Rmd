@@ -1,5 +1,5 @@
 ---
-title: "Clinical manifestations of primary CoQ defficiencies"
+title: "Clinical manifestations of primary CoQ deficiencies"
 author: "María Alcázar-Fabra & Gloria Brea-Calvo"
 date: ""
 output: 
