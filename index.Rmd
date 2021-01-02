@@ -1,6 +1,6 @@
 ---
 title: "Clinical manifestations of primary CoQ deficiencies"
-author: "María Alcázar-Fabra & Gloria Brea-Calvo"
+author: "María Alcázar-Fabra, Francisco Rodríguez-Sánchez, Eva Trevisson & Gloria Brea-Calvo"
 date: ""
 output: 
   html_document: 
@@ -117,7 +117,7 @@ heatm
 
 <br>
 
-Aquí va texto
+Primary coenzyme Q (CoQ) deficiencies are clinically heterogeneous and lack a clear genotype-phenotype correlation. With this platform, we aim to gain insight of the most common manifestations associated with the different COQ genes to improve the diagnosis of patients. 
 
 <br>
 
@@ -132,9 +132,9 @@ Aquí va texto
 
 ### The tool
 
-Here you can ...
+Here you can search the frequency of clinical manifestations grouped by system for each gene.
 
-Go to table to search the data
+Go to table to search the data by involved system, specific manifestation or COQ gene.
 
 ### CSN
 
@@ -194,7 +194,7 @@ plotfun(grupo = "Other")
 
 ### Table
 
-In this table you can search by symptom (and link to symptom description). Numbers represent number of patients
+In this table you can search by symptom (and link to symptom description). Numbers represent number of patients.
 
 ```{r out.width='100%'}
 library(DT)
@@ -204,6 +204,6 @@ datatable(datos, filter = "top", rownames = FALSE)
 
 ## {-}
 
-Epílogo...
+
 
 Last update: `r Sys.Date()`
